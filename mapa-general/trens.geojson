@@ -4,6 +4,29 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Línia R3: Tram Ribes - Planoles (Real)",
+        "tipus": "via",
+        "linia": "R3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [2.161421, 42.304523],
+          [2.158504, 42.304892],
+          [2.152432, 42.307521],
+          [2.146111, 42.309444],
+          [2.135234, 42.311556],
+          [2.128990, 42.311111],
+          [2.121500, 42.313400],
+          [2.115432, 42.315200],
+          [2.108222, 42.315990],
+          [2.102371, 42.316278]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Estació de Planoles",
         "tipus": "estacio",
         "linia": "R3"
@@ -23,23 +46,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [2.161421, 42.304523]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Línia R3: Tram Planoles - Ribes",
-        "tipus": "via",
-        "linia": "R3"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [2.102371, 42.316278],
-          [2.1200, 42.3120],
-          [2.1450, 42.3080],
-          [2.161421, 42.304523]
-        ]
       }
     }
   ]
