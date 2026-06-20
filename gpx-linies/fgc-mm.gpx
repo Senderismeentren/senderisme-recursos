@@ -4,15 +4,15 @@
     <link href="http://www.garmin.com">
       <text>Garmin International</text>
     </link>
-    <time>2026-05-30T09:27:15Z</time>
+    <time>2026-06-20T11:45:22Z</time>
     <bounds maxlat="41.616360722109675" maxlon="1.849179267883301" minlat="41.592258308082819" minlon="1.828298270702362" />
   </metadata>
 
   <trk>
-    <name>fgc-MM</name>
+    <name>fgc-mm</name>
     <extensions>
       <gpxx:TrackExtension>
-        <gpxx:DisplayColor>Black</gpxx:DisplayColor>
+        <gpxx:DisplayColor>Green</gpxx:DisplayColor>
       </gpxx:TrackExtension>
     </extensions>
     <trkseg>
