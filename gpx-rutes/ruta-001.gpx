@@ -13,6 +13,335 @@
     </link>
     <time>2011-05-06T09:22:34Z</time>
   </metadata>
+  <wpt lat="41.546205" lon="2.250609">
+    <ele>78.6</ele>
+    <time>2018-06-03T04:59:01Z</time>
+    <name>Aiguabarreig del Besòs</name>
+    <cmt></cmt>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.481913" lon="2.280600">
+    <ele>141.6</ele>
+    <time>2019-05-05T15:31:52Z</time>
+    <name>ATENCIÓ CAMÍ TALLAT: SEGUIM RECTE</name>
+    <cmt>Punt on està tallat el corriol. Cal seguir la pista.</cmt>
+    <desc>Punt on està tallat el corriol. Cal seguir la pista.</desc>
+  </wpt>
+  <wpt lat="41.545903" lon="2.251128">
+    <ele>83.8</ele>
+    <time>2018-06-03T04:58:11Z</time>
+    <name>Baixada al Besòs</name>
+    <cmt></cmt>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.512286" lon="2.267673">
+    <ele>414.6</ele>
+    <time>2012-03-13T20:52:55Z</time>
+    <name>Bifurcació</name>
+    <cmt></cmt>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.539462" lon="2.252016">
+    <ele>220.9</ele>
+    <time>2012-03-13T20:52:55Z</time>
+    <name>Camí de les Llicorelles</name>
+    <cmt></cmt>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.482135" lon="2.281642">
+    <ele>146.3</ele>
+    <time>2012-03-13T20:52:55Z</time>
+    <name>Camí del Mig (cadena)</name>
+    <cmt></cmt>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.521983" lon="2.274786">
+    <ele>310.0</ele>
+    <time>2018-06-03T05:15:19Z</time>
+    <name>Can Barbera (ruïnes)</name>
+    <cmt></cmt>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.527543" lon="2.272140">
+    <ele>434.3</ele>
+    <time>2012-03-13T20:52:55Z</time>
+    <name>Castell de Sant Miquel o Montornès</name>
+    <cmt>Entre finals de 2019 i principis de 2020 s'han començat a fer obres de rehabilitació a l'entorn del castell.</cmt>
+    <desc>Entre finals de 2019 i principis de 2020 s'han començat a fer obres de rehabilitació a l'entorn del castell.</desc>
+  </wpt>
+  <wpt lat="41.532365" lon="2.256178">
+    <ele>265.2</ele>
+    <time>2018-06-03T05:17:39Z</time>
+    <name>Coll d'Olleta</name>
+    <cmt></cmt>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.525482" lon="2.275792">
+    <ele>296.3</ele>
+    <time>2012-03-13T20:52:55Z</time>
+    <name>Coll de Can Corbera</name>
+    <cmt></cmt>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.512973" lon="2.279513">
+    <ele>414.4</ele>
+    <time>2018-06-03T05:18:31Z</time>
+    <name>Coll de Can Gurri</name>
+    <cmt></cmt>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.513566" lon="2.267000">
+    <ele>409.2</ele>
+    <time>2012-03-13T20:52:55Z</time>
+    <name>Coll de Castellruf</name>
+    <cmt></cmt>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.489198" lon="2.281031">
+    <ele>194.2</ele>
+    <time>2018-06-03T05:04:53Z</time>
+    <name>Coll de Vedrans</name>
+    <cmt></cmt>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.502814" lon="2.267935">
+    <ele>412.7</ele>
+    <time>2012-03-13T20:52:55Z</time>
+    <name>Coll dels Nou Pins (GR-92)</name>
+    <cmt></cmt>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.529039" lon="2.261599">
+    <ele>231.4</ele>
+    <time>2012-03-13T20:52:55Z</time>
+    <name>Coll Mercader</name>
+    <cmt></cmt>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.517591" lon="2.279599">
+    <ele>.0</ele>
+    <time>2020-02-09T18:17:41Z</time>
+    <name>Collet de Can Gurri</name>
+    <cmt></cmt>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.542451" lon="2.246510">
+    <ele>86.4</ele>
+    <time>2018-06-03T05:16:03Z</time>
+    <name>Compte! Inici corriol</name>
+    <cmt></cmt>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.481260" lon="2.276966">
+    <ele>122.1</ele>
+    <time>2019-05-05T15:44:36Z</time>
+    <name>CRUÏLLA-CAMÍ DEL MIG</name>
+    <cmt>Important cruïlla en la variant que evita la tanca. Cal girar a l'esquerra.</cmt>
+    <desc>Important cruïlla en la variant que evita la tanca. Cal girar a l'esquerra.</desc>
+  </wpt>
+  <wpt lat="41.515506" lon="2.281366">
+    <ele>402.3</ele>
+    <time>2012-03-13T20:52:55Z</time>
+    <name>Cruïlla torre elèctrica GR 97-3</name>
+    <cmt></cmt>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.474530" lon="2.279353">
+    <ele>56.7</ele>
+    <time>2012-03-13T20:52:55Z</time>
+    <name>Deixem SL-C-96</name>
+    <cmt></cmt>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.516583" lon="2.280650">
+    <ele>.0</ele>
+    <time>2018-06-03T05:01:37Z</time>
+    <name>Dolmen de Can Gurri</name>
+    <cmt></cmt>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.513128" lon="2.266960">
+    <ele>.0</ele>
+    <time>2018-06-03T05:02:05Z</time>
+    <name>Dolmen de Castellruf</name>
+    <cmt></cmt>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.485030" lon="2.280516">
+    <ele>193.1</ele>
+    <time>2018-06-03T05:05:23Z</time>
+    <name>El Rocar</name>
+    <cmt></cmt>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.549704" lon="2.248848">
+    <ele>81.5</ele>
+    <time>2020-02-09T11:59:50Z</time>
+    <name>Església de Santa Maria (Montmeló)</name>
+    <cmt></cmt>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.468907" lon="2.286703">
+    <ele>6.1</ele>
+    <time>2012-03-13T20:52:55Z</time>
+    <name>Estació de Montgat Nord</name>
+    <cmt></cmt>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.549532" lon="2.245606">
+    <ele>79.7</ele>
+    <time>2018-06-03T05:06:58Z</time>
+    <name>Estació de Montmeló (nova)</name>
+    <cmt></cmt>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.550270" lon="2.246893">
+    <ele>.0</ele>
+    <time>2020-02-09T17:47:11Z</time>
+    <name>Estació històrica de Montmeló</name>
+    <cmt></cmt>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.519156" lon="2.275777">
+    <ele>329.1</ele>
+    <time>2020-02-09T17:55:32Z</time>
+    <name>Font de Can Barbeta</name>
+    <cmt></cmt>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.515853" lon="2.276814">
+    <ele>.0</ele>
+    <time>2018-06-03T05:01:26Z</time>
+    <name>Font de Can Gurri</name>
+    <cmt>De fa uns anys baixa seca. Acull l'àlber més gran del parc.</cmt>
+    <desc>De fa uns anys baixa seca. Acull l'àlber més gran del parc.</desc>
+  </wpt>
+  <wpt lat="41.509985" lon="2.270994">
+    <ele>445.6</ele>
+    <time>2018-06-03T05:09:11Z</time>
+    <name>Girem  dreta</name>
+    <cmt></cmt>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.529259" lon="2.270325">
+    <ele>340.3</ele>
+    <time>2018-06-03T05:08:10Z</time>
+    <name>Inici corriol accés Castell</name>
+    <cmt></cmt>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.498835" lon="2.272113">
+    <ele>382.6</ele>
+    <time>2018-06-03T05:14:24Z</time>
+    <name>Mas Nou Pins</name>
+    <cmt></cmt>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.514438" lon="2.266195">
+    <ele>.0</ele>
+    <time>2020-02-09T18:20:41Z</time>
+    <name>Mirador de Castellruf (pessebre)</name>
+    <cmt></cmt>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.495855" lon="2.277710">
+    <ele>.0</ele>
+    <time>2018-06-03T05:03:13Z</time>
+    <name>Mirador de Nou Pins</name>
+    <cmt></cmt>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.544131" lon="2.247384">
+    <ele>70.5</ele>
+    <time>2012-03-13T20:52:55Z</time>
+    <name>PERILL: carretera BV-5001</name>
+    <cmt></cmt>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.526958" lon="2.272899">
+    <ele>400.4</ele>
+    <time>2012-03-13T20:52:55Z</time>
+    <name>Poblat ibèric (pista)</name>
+    <cmt>Restes malmeses per la construcció de la pista. No ha estat excavat.</cmt>
+    <desc>Restes malmeses per la construcció de la pista. No ha estat excavat.</desc>
+  </wpt>
+  <wpt lat="41.514628" lon="2.265944">
+    <ele>449.3</ele>
+    <time>2012-03-13T20:52:55Z</time>
+    <name>Poblat ibèric de Castellruf</name>
+    <cmt></cmt>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.476895" lon="2.278528">
+    <ele>81.0</ele>
+    <time>2012-03-13T20:52:55Z</time>
+    <name>Punt d´informació La Virreina</name>
+    <cmt></cmt>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.526798" lon="2.273892">
+    <ele>366.7</ele>
+    <time>2012-03-13T20:52:55Z</time>
+    <name>Repetidor telefonia</name>
+    <cmt></cmt>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.527875" lon="2.272187">
+    <ele>428.9</ele>
+    <time>2012-03-13T20:52:55Z</time>
+    <name>Restes 2a torre del Castell</name>
+    <cmt></cmt>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.514444" lon="2.266479">
+    <ele>.0</ele>
+    <time>2020-02-09T18:21:20Z</time>
+    <name>Sitges ibèriques</name>
+    <cmt></cmt>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.540476" lon="2.250394">
+    <ele>199.3</ele>
+    <time>2012-03-13T20:52:55Z</time>
+    <name>Torre del Telègraf</name>
+    <cmt></cmt>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.497971" lon="2.274837">
+    <ele>357.7</ele>
+    <time>2018-06-03T05:14:03Z</time>
+    <name>Turó d'en Fàbregues de Dalt</name>
+    <cmt></cmt>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.500428" lon="2.270274">
+    <ele>408.6</ele>
+    <time>2018-06-03T05:12:21Z</time>
+    <name>Turó de Ca l'Andreu</name>
+    <cmt></cmt>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.504674" lon="2.266638">
+    <ele>468.8</ele>
+    <time>2017-01-31T07:58:13Z</time>
+    <name>Turó de Galzeran (100 Cims)</name>
+    <cmt></cmt>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.534078" lon="2.249061">
+    <ele>253.5</ele>
+    <time>2012-03-13T20:52:55Z</time>
+    <name>Turó de les Llicorelles (GR97-3)</name>
+    <cmt></cmt>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.477518" lon="2.279128">
+    <ele>86.0</ele>
+    <time>2019-05-05T15:45:37Z</time>
+    <name>UNIÓ VARIANT AL CAMÍ TALLAT</name>
+    <cmt></cmt>
+    <desc></desc>
+  </wpt>
   <trk>
     <name>01 (bis). Senderisme en tren. ACTUALITZACÓ RUTA ST01: Montmeló a Montgat Nord per Castellruf i Galzeran (100 Cims) - Wikiloc</name>
     <cmt>&lt;strong&gt;EL TRACK INCLOU EL CAMÍ ALTERNATIU AL CAMÍ TALLAT PER UNA TANCA&lt;/strong&gt; 
