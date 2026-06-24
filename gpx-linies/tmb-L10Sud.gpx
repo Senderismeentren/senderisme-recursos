@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?><gpx creator="Garmin Desktop App" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/ActivityExtension/v1 http://www8.garmin.com/xmlschemas/ActivityExtensionv1.xsd http://www.garmin.com/xmlschemas/AdventuresExtensions/v1 http://www8.garmin.com/xmlschemas/AdventuresExtensionv1.xsd http://www.garmin.com/xmlschemas/PressureExtension/v1 http://www.garmin.com/xmlschemas/PressureExtensionv1.xsd http://www.garmin.com/xmlschemas/TripExtensions/v1 http://www.garmin.com/xmlschemas/TripExtensionsv1.xsd http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1 http://www.garmin.com/xmlschemas/TripMetaDataExtensionsv1.xsd http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1 http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensionsv1.xsd http://www.garmin.com/xmlschemas/CreationTimeExtension/v1 http://www.garmin.com/xmlschemas/CreationTimeExtensionsv1.xsd http://www.garmin.com/xmlschemas/AccelerationExtension/v1 http://www.garmin.com/xmlschemas/AccelerationExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.garmin.com/xmlschemas/VideoExtension/v1 http://www.garmin.com/xmlschemas/VideoExtensionv1.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtrx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:trp="http://www.garmin.com/xmlschemas/TripExtensions/v1" xmlns:adv="http://www.garmin.com/xmlschemas/AdventuresExtensions/v1" xmlns:prs="http://www.garmin.com/xmlschemas/PressureExtension/v1" xmlns:tmd="http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1" xmlns:vptm="http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1" xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1" xmlns:gpxacc="http://www.garmin.com/xmlschemas/AccelerationExtension/v1" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:vidx1="http://www.garmin.com/xmlschemas/VideoExtension/v1">
+
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2026-05-30T16:12:12Z</time>
+    <bounds maxlat="41.376049462705851" maxlon="2.147547444328666" minlat="41.323019759729505" minlon="2.113375179469585" />
+  </metadata>
+
+  <trk>
+    <name>tmb-L10Sud</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Black</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="41.376049462705851" lon="2.118467520922422" />
+      <trkpt lat="41.370237870141864" lon="2.117251055315137" />
+      <trkpt lat="41.365495808422565" lon="2.113800393417478" />
+      <trkpt lat="41.364797092974186" lon="2.113458244130015" />
+      <trkpt lat="41.364149507135153" lon="2.113375179469585" />
+      <trkpt lat="41.363485911861062" lon="2.113505937159061" />
+      <trkpt lat="41.362786442041397" lon="2.113867113366723" />
+      <trkpt lat="41.362258130684495" lon="2.114310348406434" />
+      <trkpt lat="41.361518763005733" lon="2.115320870652795" />
+      <trkpt lat="41.361130932345986" lon="2.116381684318185" />
+      <trkpt lat="41.360686188563704" lon="2.120087156072259" />
+      <trkpt lat="41.360653331503272" lon="2.120958035811782" />
+      <trkpt lat="41.360878804698586" lon="2.122552441433072" />
+      <trkpt lat="41.362381344661117" lon="2.127348063513637" />
+      <trkpt lat="41.362610086798668" lon="2.128374092280865" />
+      <trkpt lat="41.362831285223365" lon="2.130448278039694" />
+      <trkpt lat="41.363405529409647" lon="2.134178224951029" />
+      <trkpt lat="41.363338893279433" lon="2.135232081636787" />
+      <trkpt lat="41.363044856116176" lon="2.136215027421713" />
+      <trkpt lat="41.362548563629389" lon="2.137042405083776" />
+      <trkpt lat="41.361952526494861" lon="2.137609105557203" />
+      <trkpt lat="41.355338450521231" lon="2.142402715981007" />
+      <trkpt lat="41.353607755154371" lon="2.143828393891454" />
+      <trkpt lat="41.349914269521832" lon="2.146459305658937" />
+      <trkpt lat="41.348758405074477" lon="2.147213844582439" />
+      <trkpt lat="41.348051559180021" lon="2.147535542026162" />
+      <trkpt lat="41.347379079088569" lon="2.147547444328666" />
+      <trkpt lat="41.346652703359723" lon="2.147226082161069" />
+      <trkpt lat="41.323019759729505" lon="2.132683731615543" />
+    </trkseg>
+  </trk>
+
+</gpx>
