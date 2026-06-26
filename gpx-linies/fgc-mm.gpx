@@ -4,8 +4,8 @@
     <link href="http://www.garmin.com">
       <text>Garmin International</text>
     </link>
-    <time>2026-06-22T12:17:11Z</time>
-    <bounds maxlat="41.616352004930377" maxlon="1.849375991150737" minlat="41.592474980279803" minlon="1.828329032287002" />
+    <time>2026-06-26T06:40:40Z</time>
+    <bounds maxlat="41.616352004930377" maxlon="1.849375991150737" minlat="41.588757606223226" minlon="1.828329032287002" />
   </metadata>
 
   <trk>
@@ -735,6 +735,139 @@
       </trkpt>
       <trkpt lat="41.592474980279803" lon="1.836631977930665">
         <ele>702</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>fgc-santacova</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Cyan</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="41.592458803206682" lon="1.839427007362247">
+        <ele>598.72265625</ele>
+      </trkpt>
+      <trkpt lat="41.592469532042742" lon="1.839258279651403">
+        <ele>604.2890625</ele>
+      </trkpt>
+      <trkpt lat="41.592487553134561" lon="1.839113021269441">
+        <ele>609.80859375</ele>
+      </trkpt>
+      <trkpt lat="41.592507250607014" lon="1.838960805907846">
+        <ele>617.83203125</ele>
+      </trkpt>
+      <trkpt lat="41.592519823461771" lon="1.838820241391659">
+        <ele>625.8671875</ele>
+      </trkpt>
+      <trkpt lat="41.592539604753256" lon="1.83868202380836">
+        <ele>635.421875</ele>
+      </trkpt>
+      <trkpt lat="41.59254320897162" lon="1.838581273332238">
+        <ele>640.84765625</ele>
+      </trkpt>
+      <trkpt lat="41.592546813189983" lon="1.8384640943259">
+        <ele>643.87109375</ele>
+      </trkpt>
+      <trkpt lat="41.592550417408347" lon="1.838358649984002">
+        <ele>646.5625</ele>
+      </trkpt>
+      <trkpt lat="41.592555781826377" lon="1.838281368836761">
+        <ele>649.171875</ele>
+      </trkpt>
+      <trkpt lat="41.592548573389649" lon="1.838199393823743">
+        <ele>651.19140625</ele>
+      </trkpt>
+      <trkpt lat="41.592544969171286" lon="1.838091602548957">
+        <ele>654.40234375</ele>
+      </trkpt>
+      <trkpt lat="41.592532396316528" lon="1.837983811274171">
+        <ele>658.625</ele>
+      </trkpt>
+      <trkpt lat="41.592521667480469" lon="1.837876103818417">
+        <ele>664.38671875</ele>
+      </trkpt>
+      <trkpt lat="41.592509094625711" lon="1.837740233168006">
+        <ele>671.5625</ele>
+      </trkpt>
+      <trkpt lat="41.59249291755259" lon="1.837662868201733">
+        <ele>674.35546875</ele>
+      </trkpt>
+      <trkpt lat="41.592469532042742" lon="1.83754107914865">
+        <ele>679.17578125</ele>
+      </trkpt>
+      <trkpt lat="41.592453354969621" lon="1.837445022538304">
+        <ele>682.28125</ele>
+      </trkpt>
+      <trkpt lat="41.59242108464241" lon="1.837323233485222">
+        <ele>686.13671875</ele>
+      </trkpt>
+      <trkpt lat="41.592397699132562" lon="1.837232206016779">
+        <ele>690.33984375</ele>
+      </trkpt>
+      <trkpt lat="41.592361740767956" lon="1.837108070030808">
+        <ele>700.30859375</ele>
+      </trkpt>
+      <trkpt lat="41.592331230640411" lon="1.837023748084903">
+        <ele>707.00390625</ele>
+      </trkpt>
+      <trkpt lat="41.592297116294503" lon="1.83694638311863">
+        <ele>712.54296875</ele>
+      </trkpt>
+      <trkpt lat="41.59225394949317" lon="1.836831634864211">
+        <ele>714.61328125</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>fgc-santjoan</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="41.591997044160962" lon="1.836352692916989">
+        <ele>720.15625</ele>
+      </trkpt>
+      <trkpt lat="41.591724883764982" lon="1.836110204458237">
+        <ele>734.8515625</ele>
+      </trkpt>
+      <trkpt lat="41.591541571542621" lon="1.835937956348062">
+        <ele>744.23828125</ele>
+      </trkpt>
+      <trkpt lat="41.591363707557321" lon="1.835765792056918">
+        <ele>751.9765625</ele>
+      </trkpt>
+      <trkpt lat="41.591166984289885" lon="1.83556898497045">
+        <ele>766.48828125</ele>
+      </trkpt>
+      <trkpt lat="41.590822068974376" lon="1.835242174565792">
+        <ele>797.3984375</ele>
+      </trkpt>
+      <trkpt lat="41.590699944645166" lon="1.835134467110038">
+        <ele>814.49609375</ele>
+      </trkpt>
+      <trkpt lat="41.59044748172164" lon="1.834893235936761">
+        <ele>837.98828125</ele>
+      </trkpt>
+      <trkpt lat="41.589997373521328" lon="1.834468021988869">
+        <ele>874.984375</ele>
+      </trkpt>
+      <trkpt lat="41.589614739641547" lon="1.83410257101059">
+        <ele>903.0859375</ele>
+      </trkpt>
+      <trkpt lat="41.589295724406838" lon="1.833800487220287">
+        <ele>927.82421875</ele>
+      </trkpt>
+      <trkpt lat="41.589010069146752" lon="1.833536876365542">
+        <ele>949.4140625</ele>
+      </trkpt>
+      <trkpt lat="41.588757606223226" lon="1.833295561373234">
+        <ele>967.44140625</ele>
       </trkpt>
     </trkseg>
   </trk>
