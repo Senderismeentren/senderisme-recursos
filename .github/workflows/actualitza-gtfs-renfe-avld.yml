@@ -1,0 +1,38 @@
+name: Actualitzar GTFS de Renfe AV/Llarga Distància/Media Distancia
+
+# Igual que el de Cercanías: cada dilluns intenta baixar-lo, i si falla
+# (conegut per tenir problemes intermitents de certificat pel costat de
+# Renfe) simplement es queda amb l'última versió bona.
+on:
+  schedule:
+    - cron: '45 4 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  actualitzar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clonar el repositori
+        uses: actions/checkout@v4
+
+      - name: Baixar el GTFS d'AV/Llarga Distància/Media Distancia
+        continue-on-error: true
+        run: |
+          mkdir -p gtfs-renfe-avld
+          curl -f -L -A "Mozilla/5.0" -o gtfs-renfe-avld/google_transit.zip \
+            "https://ssl.renfe.com/gtransit/Fichero_AV_LD/google_transit.zip"
+
+      - name: Pujar el fitxer si ha canviat i s'ha pogut baixar
+        run: |
+          if [ -s gtfs-renfe-avld/google_transit.zip ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add gtfs-renfe-avld/google_transit.zip
+            git diff --cached --quiet || git commit -m "Actualitza GTFS de Renfe AV/LD/MD (automàtic)"
+            git push
+          else
+            echo "La baixada d'aquesta setmana ha fallat; es manté l'última versió bona."
+          fi
