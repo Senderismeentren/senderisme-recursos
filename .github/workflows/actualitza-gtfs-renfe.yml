@@ -1,0 +1,40 @@
+name: Actualitzar GTFS de Renfe Cercanías
+
+# S'executa sol cada dilluns a les 4:30 UTC, i també es pot llançar
+# manualment des de la pestanya "Actions" del repositori. Com que
+# aquest fitxer de Renfe és conegut per fallar de forma intermitent
+# (problema de certificat pel seu costat), si algun dilluns falla la
+# baixada, el pas simplement no fa res i es manté l'última versió bona.
+on:
+  schedule:
+    - cron: '30 4 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  actualitzar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clonar el repositori
+        uses: actions/checkout@v4
+
+      - name: Baixar el GTFS de Renfe Cercanías
+        continue-on-error: true
+        run: |
+          mkdir -p gtfs-renfe
+          curl -f -L -A "Mozilla/5.0" -o gtfs-renfe/fomento_transit.zip \
+            "https://ssl.renfe.com/ftransit/Fichero_CER_FOMENTO/fomento_transit.zip"
+
+      - name: Pujar el fitxer si ha canviat i s'ha pogut baixar
+        run: |
+          if [ -s gtfs-renfe/fomento_transit.zip ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add gtfs-renfe/fomento_transit.zip
+            git diff --cached --quiet || git commit -m "Actualitza GTFS de Renfe Cercanías (automàtic)"
+            git push
+          else
+            echo "La baixada d'aquesta setmana ha fallat; es manté l'última versió bona."
+          fi
